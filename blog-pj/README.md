@@ -5,7 +5,7 @@
 NestJS 클론코딩을 응용하여 모듈을 더 추가해 블로그 토이 프로젝트를 진행했다. <br> 
 블로그의 회원가입, 로그인, 게시판과 댓글, 좋아요의 백 기능을 구현했다.
 
-### stack
+### STACK
 * NestJS
 * Typescript
 * MongoDB
